@@ -1,0 +1,12 @@
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.deps.json
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.dll
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.csproj.AssemblyReference.cache
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.AssemblyInfoInputs.cache
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.AssemblyInfo.cs
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.csproj.CoreCompileInputs.cache
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.dll
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/refint/BuberDinner.Domain.dll
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.pdb
+/Users/zine/Devel/CSharp/Projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/ref/BuberDinner.Domain.dll
